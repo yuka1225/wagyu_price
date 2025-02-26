@@ -21,6 +21,10 @@ p {
   padding: 0 20px;
 }
 
+.card {
+  border-radius: 0;
+}
+
 .result {
   padding: 60px 20px 20px;
 }
@@ -57,3 +61,4 @@ footer {
   background-color: #343a40;
   text-align: center;
 }
+

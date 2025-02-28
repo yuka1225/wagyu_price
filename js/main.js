@@ -2,7 +2,7 @@ $(function() {
     $('#page-top a').click(function(e) {
       e.preventDefault();
       var position = 0;
-      var speed = 500;
+      var speed = 2000;
       $('html, body').animate({
         scrollTop: position,
       }, speed, 'swing');
